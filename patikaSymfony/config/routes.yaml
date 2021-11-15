@@ -1,0 +1,9 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+#furkan:
+
+    #path:       /app/number/{id}
+    #controller: App\Controller\LuckyController::number
+    #methods:    GET|HEAD
